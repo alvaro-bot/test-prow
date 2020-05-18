@@ -1,0 +1,9 @@
+presubmits:
+- name: some_job
+  always_run: true
+  spec:
+   containers:
+   - image: debian
+     command:
+     - date
+     - -I
