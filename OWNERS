@@ -1,3 +1,4 @@
 approvers:
 - alvaroaleman
-auto_approve_unowned_subfolders: true
+options:
+	auto_approve_unowned_subfolders: true
