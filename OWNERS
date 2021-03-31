@@ -1,4 +1,4 @@
 approvers:
-- alvaroaleman
+- alvaro-bot
 options:
-	auto_approve_unowned_subfolders: true
+  auto_approve_unowned_subfolders: true
